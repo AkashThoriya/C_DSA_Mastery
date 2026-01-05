@@ -1,8 +1,27 @@
 # C DSA Mastery: The Low-Level Path
 
-Welcome to the **C DSA Mastery** repository. This is a comprehensive, 6-month structured roadmap designed to master Data Structures and Algorithms specifically through the lens of the **C programming language**.
+This is my 6-month structured roadmap to master Data Structures and Algorithms through the lens of **low-level C programming**.
 
-Unlike high-level DSA courses, this curriculum focuses heavily on **memory management, pointers, and hardware-adjacent optimizations**, making it ideal for developers looking to bridge the gap between software logic and system architecture.
+Unlike typical DSA courses that use high-level languages, I'm taking the hard path: learning how data structures actually work in memory, manipulating pointers directly, managing manual memory allocation, and understanding the hardware implications of algorithmic decisions. This approach is designed to build genuine systems-level understanding — the kind needed for embedded systems, OS development, performance-critical applications, and truly grasping what happens under the hood.
+
+---
+
+## 📚 Recommended Learning Resources
+
+### Primary Learning Platform
+**[TakeUForward (Striver's A2Z DSA Course)](https://takeuforward.org/)**
+- 🎥 **High-quality video explanations** covering DSA concepts from fundamentals to advanced topics
+- 💻 **Interactive coding environment** for immediate hands-on practice
+- 📝 **Structured curriculum** aligned with interview preparation
+- ✅ **Problem walkthroughs** with multiple approaches and complexity analysis
+
+### Practice Platforms
+1. **[LeetCode](https://leetcode.com/)** — Industry-standard platform for technical interview preparation
+2. **[TakeUForward Practice](https://takeuforward.org/)** — Curated problem sets synchronized with course concepts
+
+> **💡 Workflow Tip:** Learn concepts on TakeUForward first, then immediately practice similar problems on LeetCode to reinforce understanding. Implement all solutions in C to master low-level memory management.
+
+---
 
 ## 📂 Repository Navigation & Syllabus
 
