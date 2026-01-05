@@ -229,7 +229,6 @@ In MERN, you have a database with all the data. In Hardware, data arrives byte-b
     8. **Remove Linked List Elements (LC 203).**
     9. **LC 206 (Reverse List):** The most common pointer-interview question.
     10. **LC 141 (Cycle Detection):** Essential for detecting infinite loops in system tasks.
-    11. **Challenge:** **The "No-Malloc" Pool.** Implement a Linked List where you **pre-allocate** a global array of 100 Nodes. Write your own `alloc_node()` function that returns an unused index from this array. (Simulates Safety-Critical Static Memory logic used in Automotive).
     
 
 ### **Week 14: Advanced Lists (Cycles & Doubly Linked)**
@@ -247,6 +246,7 @@ In MERN, you have a database with all the data. In Hardware, data arrives byte-b
     8. **Copy List with Random Pointer (LC 138):** Deep copying structures.
     9. **LC 138 (Copy with Random Pointer):** Mimics "deep-copying" a memory-mapped structure.
     10. **LC 92 (Reverse II):** Partial memory reversal within a list.
+    11. **Challenge:** **The "No-Malloc" Pool.** Implement a Linked List where you **pre-allocate** a global array of 100 Nodes. Write your own `alloc_node()` function that returns an unused index from this array. (Simulates Safety-Critical Static Memory logic used in Automotive).
 
 ### **Week 15: Stacks (LIFO)**
 
@@ -351,6 +351,7 @@ In MERN, you have a database with all the data. In Hardware, data arrives byte-b
     8. **Lowest Common Ancestor (LC 236).**
     9. **LC 102 (Level Order):** Breadth-First Search (BFS) for system diagnostic checks.
     10. **LC 236 (Lowest Common Ancestor):** Root cause analysis in a hierarchical system.
+    11. Sort an Array (LC 912) - MERGE SORT ONLY: Implement Merge Sort from scratch. The Drill: Calculate exactly how much Stack Memory your recursion uses for an array of 1,000,000 ints.
 
 ---
 
@@ -402,7 +403,8 @@ In MERN, you have a database with all the data. In Hardware, data arrives byte-b
     4. **Largest Rectangle in Histogram (LC 84).**
     5. **Serialize and Deserialize Binary Tree (LC 297).**
     6. **LC 42 (Trapping Rain Water):** Classic "Senior" logic test.
-    7. **LC 23 (Merge k Sorted Lists):** Merging multiple sensor streams into one timeline.
+    7. **LC 208 (Trie):** Understand how to pack strings into a tree for fast network lookups.
+    8. **LC 23 (Merge k Sorted Lists):** Merging multiple sensor streams into one timeline.
 
 ### **Week 24 & 25: Mock Interviews (Whiteboard Mode)**
 
